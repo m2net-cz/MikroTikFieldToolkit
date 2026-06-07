@@ -26,6 +26,7 @@ This is that tool.
   deploy, it restores itself from backup within a set window.
 - **WireGuard config generator**, bulk password change, backups (binary + .rsc), old-backup cleanup.
 - Inventory with groups, CSV import, manual `.npk` upgrade for advanced cases.
+- **Bulk Password change**
 
 
 ## Requirements
