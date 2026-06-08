@@ -51,7 +51,7 @@ and then the app runs offline (with a 14-day offline grace window).
 ## Download & license
 
 1. Download the latest build from **[Releases](../../releases)**.
-   SHA-256: `<HASH>`
+   SHA-256: `sha256:f8eab53f0d1eb209aee0049f9705a68f1a5a9e453e54a2059f01effc3488a006`
 2. It's free to test. Email **info@m2net.cz** and I'll issue a license valid for
    **3 months, up to 100 devices**.
 3. Activate in the app (About → license → enter `LIC-…` → Activate).
